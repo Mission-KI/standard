@@ -19,7 +19,7 @@
 
 ## Jetzt herunterladen <a id="herunterladen" />
 
-:notebook: [**Der MISSION KI Qualitätsstandard (PDF)**](MISSION-KI-Qualitätsstandard.pdf)
+:notebook: [**Der MISSION KI Qualitätsstandard (PDF)**](https://raw.githubusercontent.com/mission-ki/standard/master/MISSION-KI-Qualitätsstandard.pdf)
 
 **Zugehörige Unterlagen:**
 
