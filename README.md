@@ -23,13 +23,13 @@
 
 **Zugehörige Unterlagen:**
 
-:memo: [Vorlage: Anwendungsfallbeschreibung (Word)](MKI-QS-Anwendungsfallbeschreibung.docx)  
-:memo: [Vorlage: Prüfbericht (Word)](MKI-QS-Prüfberichtsvorlage.docx)  
-:bookmark_tabs: [Prüfkatalog (Excel)](MKI-QS-Prüfkatalog.xlsx) :arrow_right: [Auch als Online-Version verfügbar](https://docs.pruefportal.mission-ki.de/indicators)  
-:bookmark_tabs: [Schutzbedarfsanalyse (Excel)](MKI-QS-Schutzbedarfsanalyse.xlsx)  
-:bookmark_tabs: [Technische Prüfmethodensammlung (Excel)](MKI-QS-Technische-Prüfmethodensammlung.xlsx) :arrow_right: [Auch als Online-Version verfügbar](https://docs.pruefportal.mission-ki.de/methods)  
+:memo: [Vorlage: Anwendungsfallbeschreibung (Word)](unterlagen/MKI-QS-Anwendungsfallbeschreibung.docx)  
+:memo: [Vorlage: Prüfbericht (Word)](unterlagen/MKI-QS-Prüfberichtsvorlage.docx)  
+:bookmark_tabs: [Prüfkatalog (Excel)](unterlagen/MKI-QS-Prüfkatalog.xlsx) :arrow_right: [Auch als Online-Version verfügbar](https://docs.pruefportal.mission-ki.de/indicators)  
+:bookmark_tabs: [Schutzbedarfsanalyse (Excel)](unterlagen/MKI-QS-Schutzbedarfsanalyse.xlsx)  
+:bookmark_tabs: [Technische Prüfmethodensammlung (Excel)]unterlagen/(MKI-QS-Technische-Prüfmethodensammlung.xlsx) :arrow_right: [Auch als Online-Version verfügbar](https://docs.pruefportal.mission-ki.de/methods)  
 
-:package: [**Alle Unterlagen als ZIP-Datei**](mission-ki-qualitaetsstandard-anhaenge.zip)
+:package: [**Alle Unterlagen als ZIP-Datei**](unterlagen/mission-ki-qualitaetsstandard-anhaenge.zip)
 
 Die Prüfung nach dem MISSION KI Qualitätsstandard kann auch komplett online durchgeführt werden:  
 ➡️ [**MISSION KI Prüfportal**](https://pruefportal.mission-ki.de/)
