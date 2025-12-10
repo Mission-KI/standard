@@ -49,27 +49,27 @@ Das Dokument beschreibt das vollständige Prüfverfahren – von der Anwendungsf
 
 In einem zunehmend regulierten KI-Markt zahlen sich strukturierte Qualitätsnachweise mehrfach aus: durch Marktdifferenzierung, höhere Akzeptanz bei Kunden und Investoren sowie reduzierte Compliance-Risiken. Der MISSION KI Qualitätsstandard wurde so entwickelt, dass diese Vorteile mit angemessenem Aufwand realisierbar sind. Sechs Leitprinzipien gewährleisten das Gleichgewicht zwischen Belastbarkeit der Prüfergebnisse und Effizienz der Durchführung.
 
-###  Freiwilligkeit
+####  Freiwilligkeit
 
 Die Anwendung des Standards ist nicht verpflichtend, sondern wirtschaftlich motiviert. Der EU AI Act reguliert primär Hochrisiko-KI – für die meisten anderen KI-Anwendungen gibt es keine vergleichbaren Qualitätsanforderungen. Doch Kunden, Investoren und Partner erwarten zunehmend belastbare Nachweise zu Qualität, Sicherheit und Fairness. Der Standard ermöglicht es Ihnen, proaktiv Vertrauen aufzubauen und sich durch nachweisbare Qualität zu differenzieren – besonders wertvoll in Ausschreibungen und bei Investoren-Pitches.
 
-###  Praxisorientierung & Effizienz
+####  Praxisorientierung & Effizienz
 
 Der Standard wurde gezielt für die Anwendung in Unternehmen mit begrenzten Prüfressourcen entwickelt, insbesondere Start-ups und KMU. Die anwendungsfallspezifische Schutzbedarfsanalyse fokussiert den Prüfaufwand auf tatsächlich kritische Bereiche. Das digitale Prüfportal automatisiert Routineschritte und bietet kontextbezogene Hilfestellungen. So entsteht ein strukturierter Qualitätsnachweis mit angemessenem Aufwand. Gleichzeitig basiert der Standard auf etablierten Ansätzen wie VDE SPEC 90012 und dem Fraunhofer IAIS Prüfkatalog.
 
-###  Anschlussfähigkeit
+####  Anschlussfähigkeit
 
 Der Standard wurde bewusst kompatibel zu zentralen Regularien und Normen entwickelt. Die sechs Qualitätsdimensionen basieren auf den EU-Ethikleitlinien für vertrauenswürdige KI und sind mit den Hochrisiko-Anforderungen des EU AI Act harmonisiert. Prozesse und Dokumentationen, die im Rahmen der Prüfung entstehen – etwa zur Schutzbedarfsanalyse, Datenqualität, Robustheit oder menschlicher Aufsicht – unterstützen Sie bei der Vorbereitung auf regulatorische Anforderungen. Bestehende Nachweise aus ISO 27001, DSGVO-Compliance oder anderen Standards werden anerkannt und können integriert werden.
 
-###  Belastbarkeit
+####  Belastbarkeit
 
 Ein belastbarer Qualitätsnachweis erfordert objektive Kriterien und nachvollziehbare Verfahren. Der Standard nutzt ein vierstufiges Bewertungssystem, das für jeden Qualitätsaspekt klare Anforderungen definiert – von Mindeststandard bis Best Practice. Technische Tests werden mit reproduzierbaren Parametern dokumentiert, sodass Ergebnisse überprüfbar bleiben. Die Prüftiefe lässt sich skalieren: von der Selbstprüfung über interne Validierung nach dem Vier-Augen-Prinzip bis zur optionalen Einbindung externer Prüfstellen. Der Prüfbericht dokumentiert transparent, welche Qualitätsmaßnahmen in welchem Umfang umgesetzt wurden.
 
-###  Vergleichbarkeit
+####  Vergleichbarkeit
 
 Der Standard schafft Vergleichbarkeit durch einheitliche Bewertungskriterien. Alle Prüfungen folgen derselben Systematik: Sechs Qualitätsdimensionen werden in konkrete Kriterien und messbare Anforderungen übersetzt. Die Schutzbedarfsanalyse sorgt dafür, dass unterschiedliche Einsatzkontexte berücksichtigt werden – dennoch bleibt die Bewertungslogik vergleichbar. Für Beschaffungsstellen, Kunden und Investoren bedeutet das: KI-Angebote lassen sich strukturiert bewerten und gegenüberstellen – unabhängig von Branche, Anbieter oder Systemtyp.
 
-###  Zugänglichkeit
+####  Zugänglichkeit
 
 Der Standard wurde bewusst niedrigschwellig konzipiert, um Start-ups und KMU den Einstieg in systematisches KI-Qualitätsmanagement zu erleichtern. Das Prüfportal führt Schritt für Schritt durch den Bewertungsprozess, integrierte Vorlagen reduzieren den Dokumentationsaufwand, und die Prüfmethodensammlung bietet direkt anwendbare Verfahren mit konkreten Anleitungen. Prüfergebnisse werden in verständlicher Form kommuniziert – für interne Governance ebenso wie für Kunden, Partner und Investoren. So wird professionelles Qualitätsmanagement auch ohne dedizierte Compliance-Abteilung möglich.
 
