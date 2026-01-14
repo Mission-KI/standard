@@ -32,7 +32,7 @@
 :package: [**Alle Unterlagen als ZIP-Datei**](https://raw.githubusercontent.com/mission-ki/standard/master/unterlagen/mission-ki-qualitaetsstandard-anhaenge.zip)
 
 Die Prüfung nach dem MISSION KI Qualitätsstandard kann auch komplett online durchgeführt werden:  
-➡️ [**MISSION KI Prüfportal**](https://pruefportal.mission-ki.de/)
+➡️ [**MISSION KI Prüfportal**](https://www.pruefportal.ai/)
 
 
 ## Der Standard <a id="der-standard" />
@@ -196,7 +196,7 @@ Nein. Der MISSION KI Qualitätsstandard ist freiwillig anwendbar. Sein Nutzen li
 
 Der MISSION KI Qualitätsstandard beschreibt ein vollständiges Prüfverfahren und stellt alle erforderlichen Vorlagen zur Verfügung – darunter Anwendungsfallbeschreibung, Schutzbedarfsanalyse, Prüfkatalog, Prüfmethodensammlung und Prüfberichtsvorlage. Organisationen können die Prüfung anhand dieser Dokumente selbstständig durchführen.
 
-Ergänzend steht das [MISSION KI Prüfportal](https://pruefportal.mission-ki.de/) zur Verfügung, das die Anwendung erleichtert. Das Portal digitalisiert das Prüfverfahren und führt Schritt für Schritt durch den gesamten Prozess.
+Ergänzend steht das [MISSION KI Prüfportal](https://www.pruefportal.ai/) zur Verfügung, das die Anwendung erleichtert. Das Portal digitalisiert das Prüfverfahren und führt Schritt für Schritt durch den gesamten Prozess.
 
 ###  Kann die Prüfung von Organisationen selbstständig durchgeführt werden? <a id="faq-selbstpruefung" />
 
@@ -233,7 +233,7 @@ Der MISSION KI Qualitätsstandard ist eng mit weiteren Regularien und Standards 
 
 * [MISSION KI](https://www.mission-ki.de/)
 * [MISSION KI Qualitätsstandard - KI-Qualität messbar machen](https://mission-ki.de/de/pruefstandards)
-* [MISSION KI Prüfportal](https://pruefportal.mission-ki.de/)
+* [MISSION KI Prüfportal](https://www.pruefportal.ai/)
 
 ## Lizenz  <a id="license" />
 
