@@ -237,8 +237,7 @@ Der MISSION KI Qualitätsstandard ist eng mit weiteren Regularien und Standards 
 
 ## Lizenz  <a id="license" />
 
-©acatech – Deutsche Akademie der Technikwissenschaften e. V. Dieses Werk ist lizenziert unter der Creative Commons Lizenz Namensnennung – Keine Bearbeitungen 4.0 International
-(CC BY-ND 4.0). [https://creativecommons.org/licenses/by-nd/4.0/deed.de](https://creativecommons.org/licenses/by-nd/4.0/deed.de)
+©acatech – Deutsche Akademie der Technikwissenschaften e. V. Dieses Werk ist lizenziert unter der Creative Commons Lizenz Namensnennung 4.0 International (CC BY). https://creativecommons.org/licenses/by/4.0/deed.de
 
 **Hinweis**
 Teile der im MISSION KI Qualitätsstandard enthaltenen Indikatoren basieren auf der
